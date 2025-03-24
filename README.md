@@ -55,6 +55,7 @@ A curated list of awesome things related to <a href='https://github.com/better-a
 | `create-better-t-stack` | A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations | [Link](https://github.com/better-t-stack/create-better-t-stack) |
 | `next-js-pages-starter` | Better Auth Next.js starter template with PostgreSQL, Drizzle, shadcn/ui and TanStack Query by davey plate | [Link](https://github.com/daveyplate/better-auth-nextjs-pages-starter) |
 | `railway-template` | Better Auth Railway template | [Link](https://railway.com/template/VOQsdL) |
+| `zap-ts` | The boilerplate to build applications as fast as a zap. | [Link](https://zap-ts.alexandretrotel.org) |
 
 ## UI
 
