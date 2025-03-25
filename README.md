@@ -56,6 +56,7 @@ A curated list of awesome things related to <a href='https://github.com/better-a
 | `next-js-pages-starter` | Better Auth Next.js starter template with PostgreSQL, Drizzle, shadcn/ui and TanStack Query by davey plate | [Link](https://github.com/daveyplate/better-auth-nextjs-pages-starter) |
 | `railway-template` | Better Auth Railway template | [Link](https://railway.com/template/VOQsdL) |
 | `zap-ts` | The boilerplate to build applications as fast as a zap. | [Link](https://zap-ts.alexandretrotel.org) |
+| `better-next` | Add `better-auth` using a 🔥 single command 🔥 or use the template itself, built with Next.js, PostgreSQL, Drizzle, shadcn/ui + Registry | [Link](https://github.com/nrjdalal/better-next) |
 
 ## UI
 
