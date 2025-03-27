@@ -18,6 +18,7 @@ A curated list of awesome things related to <a href='https://github.com/better-a
 | `convex` | Convex adapter for BetterAuth | [Link](https://www.better-auth-kit.com/docs/adapters/convex) |
 | `surreal` | SurrealDB adapter for BetterAuth | [Link](https://github.com/oskar-gmerek/surreal-better-auth/) |
 | `payload` | PayloadCMS adapter for BetterAuth | [Link](https://github.com/ForrestDevs/payload-better-auth/tree/main/packages/better-auth-db-adapter) |
+| `typeorm` | TypeORM adapter for BetterAuth | [Link](https://github.com/Zastinian/better-auth-typeorm) |
 
 ## Plugins
 
