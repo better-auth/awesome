@@ -29,6 +29,7 @@ A curated list of awesome things related to <a href='https://github.com/better-a
 | `@better-auth-kit/tests` | A collection of utilities to help you test your Better-Auth plugins | [Link](https://www.better-auth-kit.com/docs/libraries/tests) |
 | `seed` | Seed your Better-Auth database with deterministic, yet realistic, fake data to populate your database | [Link](https://www.better-auth-kit.com/docs/cli/seed) |
 | `polar` | A Better Auth plugin for integrating Polar payments and subscriptions into your authentication flow | [Link](https://docs.polar.sh/integrate/sdk/adapters/better-auth) |
+| `expo-passkey` | A Better Auth plugin enabling secure, passwordless authentication in Expo applications through native biometric authentication | [Link](https://github.com/iosazee/expo-passkey) |
 
 ## Projects (Open Source, >1k stars)
 
