@@ -35,7 +35,7 @@ A curated list of awesome things related to <a href='https://github.com/better-a
 
 | Name | Description | Link |
 |------|-------------|------|
-| `Follow` | 🧡 Follow everything in one place | [Link](https://github.com/RSSNext/Follow) |
+| `Folo` | 🧡 Follow everything in one place | [Link](https://github.com/RSSNext/Folo) |
 | `Dokploy` | Open Source Alternative to Vercel, Netlify and Heroku | [Link](https://github.com/Dokploy/dokploy) |
 | `Open Alternative` | A community driven list of open source alternatives to proprietary software and applications | [Link](https://github.com/piotrkulpinski/openalternative) |
 | `One` | ❶ One is a new React framework - target web and native with a single Vite plugin and fully shared code | [Link](https://github.com/onejs/one) |
