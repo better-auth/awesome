@@ -39,7 +39,7 @@ A curated list of awesome things related to <a href='https://github.com/better-a
 | `Dokploy` | Open Source Alternative to Vercel, Netlify and Heroku | [Link](https://github.com/Dokploy/dokploy) |
 | `Open Alternative` | A community driven list of open source alternatives to proprietary software and applications | [Link](https://github.com/piotrkulpinski/openalternative) |
 | `One` | ❶ One is a new React framework - target web and native with a single Vite plugin and fully shared code | [Link](https://github.com/onejs/one) |
-| `Mail0` | The first open source email app that puts your privacy and safety first| [Link](https://github.com/Mail-0/Mail-0) |
+| `Zero` | ✉️ The first open source email app that puts your privacy and safety first| [Link](https://github.com/Mail-0/Zero) |
 | `Shiro` | 📜 A minimalist personal website embodying the purity of paper and freshness of snow.| [Link](https://github.com/Innei/Shiro) |
 
 ## Starter Kits
