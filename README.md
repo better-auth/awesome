@@ -51,7 +51,7 @@ A curated list of awesome things related to <a href='https://github.com/better-a
 | `next-js-starter` | A feature rich Next.js starter template by yared yilma | [Link](https://github.com/yaredow/next-starter) |
 | `better-auth-react-router-cloudflare-d1` | Example of Better Auth integrated with React Router (v7) which is setup to deploy to Cloudflare & use D1 for the database | [Link](https://github.com/matthewlynch/better-auth-react-router-cloudflare-d1) |
 | `svelter-auth` | A sveltekit betterauth starter template by robimez | [Link](https://github.com/robimez/svelter-auth) |
-| `supastarter` | The scalable and production-ready Next.js SaaS starter kit | [Link](https://github.com/supabase/supastarter) |
+| `supastarter` | The scalable and production-ready Next.js SaaS starter kit | [Link](https://supastarter.dev/) |
 | `boring-template` | Not your average SaaS boilerplate | [Link](https://www.boringtemplate.com/) |
 | `pro-stack` | Ship your startup in minutes with ProStack| [Link](https://pro-stack.vercel.app/) |
 | `create-better-t-stack` | A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations | [Link](https://github.com/better-t-stack/create-better-t-stack) |
