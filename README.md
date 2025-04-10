@@ -69,6 +69,11 @@ A curated list of awesome things related to <a href='https://github.com/better-a
 |------|-------------|------|
 | `better-auth-ui` | Plug & play shadcn/ui auth components for better-auth | [Link](https://github.com/daveyplate/better-auth-ui) |
 
+## Miscellaneous
+
+| Name | Description | Link |
+|------|-------------|------|
+| `better-auth-mcp-server` | Model Context Protocol to help assist in setting up, migrating and maintaing a Better-Auth implementation | [Link](https://github.com/nahmanmate/better-auth-mcp-server) |
 
 ## Contributing
 
