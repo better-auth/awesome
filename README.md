@@ -55,7 +55,7 @@ A curated list of awesome things related to <a href='https://github.com/better-a
 | `supastarter` | The scalable and production-ready Next.js SaaS starter kit | [Link](https://supastarter.dev/) |
 | `turbo-starter` | Web (Next.js), mobile (Expo) and browser extension (WXT) starter kit | [Link](https://turbostarter.dev) |
 | `boring-template` | Not your average SaaS boilerplate | [Link](https://www.boringtemplate.com/) |
-| `pro-stack` | Ship your startup in minutes with ProStack| [Link](https://pro-stack.vercel.app/) |
+| `pro-stack` | Ship your startup in minutes with ProStack| [Link](https://prostack.cc/) |
 | `create-better-t-stack` | A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations | [Link](https://github.com/better-t-stack/create-better-t-stack) |
 | `next-js-pages-starter` | Better Auth Next.js starter template with PostgreSQL, Drizzle, shadcn/ui and TanStack Query by davey plate | [Link](https://github.com/daveyplate/better-auth-nextjs-pages-starter) |
 | `railway-template` | Better Auth Railway template | [Link](https://railway.com/template/VOQsdL) |
