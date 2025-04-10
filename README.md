@@ -19,7 +19,7 @@ A curated list of awesome things related to <a href='https://github.com/better-a
 | `surreal` | SurrealDB adapter for BetterAuth | [Link](https://github.com/oskar-gmerek/surreal-better-auth/) |
 | `payload` | PayloadCMS adapter for BetterAuth | [Link](https://github.com/ForrestDevs/payload-better-auth/tree/main/packages/better-auth-db-adapter) |
 | `typeorm` | TypeORM adapter for BetterAuth | [Link](https://github.com/Zastinian/better-auth-typeorm) |
-| `ronin` | Ronin adapter for BetterAuth | [Link](ttps://github.com/ronin-co/better-auth) |
+| `ronin` | Ronin adapter for BetterAuth | [Link](https://github.com/ronin-co/better-auth) |
 
 ## Plugins
 
