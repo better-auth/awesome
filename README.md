@@ -46,6 +46,7 @@ A curated list of awesome things related to <a href='https://github.com/better-a
 
 | Name | Description | Link |
 |------|-------------|------|
+| `TurboStarter` | Web (Next.js), mobile (Expo) and browser extension (WXT) starter kit | [Link](https://turbostarter.dev) |
 | `next-js-starter` | Better Auth Next.js starter template with PostgreSQL, Drizzle, shadcn/ui and TanStack Query | [Link](https://github.com/daveyplate/better-auth-nextjs-starter) |
 | `tanstack-starter` | Better Auth TanStack starter template with PostgreSQL, Drizzle, shadcn/ui and TanStack Query | [Link](https://github.com/daveyplate/better-auth-tanstack-starter) |
 | `next-js-starter` | A feature rich Next.js starter template by yared yilma | [Link](https://github.com/yaredow/next-starter) |
