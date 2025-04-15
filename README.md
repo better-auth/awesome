@@ -20,6 +20,7 @@ A curated list of awesome things related to <a href='https://github.com/better-a
 | `payload` | PayloadCMS adapter for BetterAuth | [Link](https://github.com/ForrestDevs/payload-better-auth/tree/main/packages/better-auth-db-adapter) |
 | `typeorm` | TypeORM adapter for BetterAuth | [Link](https://github.com/Zastinian/better-auth-typeorm) |
 | `ronin` | Ronin adapter for BetterAuth | [Link](https://github.com/ronin-co/better-auth) |
+| `instant` | InstantDB adapter for BetterAuth | [Link](https://github.com/daveyplate/better-auth-instantdb) |
 
 ## Plugins
 
