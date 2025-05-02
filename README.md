@@ -32,6 +32,7 @@ A curated list of awesome things related to <a href='https://github.com/better-a
 | `seed` | Seed your Better-Auth database with deterministic, yet realistic, fake data to populate your database | [Link](https://www.better-auth-kit.com/docs/cli/seed) |
 | `polar` | A Better Auth plugin for integrating Polar payments and subscriptions into your authentication flow | [Link](https://docs.polar.sh/integrate/sdk/adapters/better-auth) |
 | `expo-passkey` | A Better Auth plugin enabling secure, passwordless authentication in Expo applications through native biometric authentication | [Link](https://github.com/iosazee/expo-passkey) |
+| `harmony` | A better-auth plugin for email & phone normalization and additional validation, blocking over 55,000 temporary email domains | [Link](https://github.com/GeKorm/better-auth-harmony) |
 
 ## Projects (Open Source, >1k stars)
 
