@@ -44,6 +44,7 @@ A curated list of awesome things related to <a href='https://github.com/better-a
 | `One` | ❶ One is a new React framework - target web and native with a single Vite plugin and fully shared code | [Link](https://github.com/onejs/one) |
 | `Zero` | ✉️ The first open source email app that puts your privacy and safety first| [Link](https://github.com/Mail-0/Zero) |
 | `Shiro` | 📜 A minimalist personal website embodying the purity of paper and freshness of snow.| [Link](https://github.com/Innei/Shiro) |
+| `Papra` | 📄 A self-hostable minimalist document management and archiving platform. | [Link](https://github.com/papra-hq/papra)
 
 ## Starter Kits
 
