@@ -33,6 +33,7 @@ A curated list of awesome things related to <a href='https://github.com/better-a
 | `polar` | A Better Auth plugin for integrating Polar payments and subscriptions into your authentication flow | [Link](https://docs.polar.sh/integrate/sdk/adapters/better-auth) |
 | `expo-passkey` | A Better Auth plugin enabling secure, passwordless authentication in Expo applications through native biometric authentication | [Link](https://github.com/iosazee/expo-passkey) |
 | `harmony` | A better-auth plugin for email & phone normalization and additional validation, blocking over 55,000 temporary email domains | [Link](https://github.com/GeKorm/better-auth-harmony) |
+| `cloudflare` | Integrate better-auth with Cloudflare Workers, D1, KV, R2, and geolocation services. Includes Next.js and Hono live demos with Drizzle schema migration scripts | [Link](https://github.com/zpg6/better-auth-cloudflare) |
 
 ## Projects (Open Source, >1k stars)
 
