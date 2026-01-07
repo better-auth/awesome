@@ -52,6 +52,7 @@ A curated list of awesome things related to <a href='https://github.com/better-a
 | Name | Description | Link |
 |------|-------------|------|
 | `next-js-starter` | Better Auth Next.js starter template with PostgreSQL, Drizzle, shadcn/ui and TanStack Query | [Link](https://github.com/daveyplate/better-auth-nextjs-starter) |
+| `better-auth-starter` | Next.js 16 Starter Kit with authentication, admin dashboard, and user management built with shadcn/ui, Drizzle ORM, and PostgreSQL | [Link](https://github.com/zexahq/better-auth-starter) |
 | `tanstack-starter` | Better Auth TanStack starter template with PostgreSQL, Drizzle, shadcn/ui and TanStack Query | [Link](https://github.com/daveyplate/better-auth-tanstack-starter) |
 | `next-js-starter` | A feature rich Next.js starter template by yared yilma | [Link](https://github.com/yaredow/next-starter) |
 | `better-auth-react-router-cloudflare-d1` | Example of Better Auth integrated with React Router (v7) which is setup to deploy to Cloudflare & use D1 for the database | [Link](https://github.com/matthewlynch/better-auth-react-router-cloudflare-d1) |
