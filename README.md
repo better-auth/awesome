@@ -61,6 +61,7 @@ A curated list of awesome things related to <a href='https://github.com/better-a
 | `boring-template` | Not your average SaaS boilerplate | [Link](https://www.boringtemplate.com/) |
 | `pro-stack` | Ship your startup in minutes with ProStack| [Link](https://prostack.cc/) |
 | `create-better-t-stack` | A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations | [Link](https://github.com/better-t-stack/create-better-t-stack) |
+| `Eden Stack` | Full-stack SaaS starter with TanStack Start, Elysia, Drizzle, Stripe, Inngest, and Vercel deployment. Uses Better Auth with GitHub OAuth, Drizzle adapter, and TanStack Start cookies plugin. | [Link](https://eden-stack.com?utm_source=github&utm_medium=awesome-list&utm_campaign=backlinks) |
 | `next-js-pages-starter` | Better Auth Next.js starter template with PostgreSQL, Drizzle, shadcn/ui and TanStack Query by davey plate | [Link](https://github.com/daveyplate/better-auth-nextjs-pages-starter) |
 | `railway-template` | Better Auth Railway template | [Link](https://railway.com/template/VOQsdL) |
 | `zap-ts` | The boilerplate to build applications as fast as a zap. | [Link](https://zap-ts.alexandretrotel.org) |
