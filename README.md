@@ -79,6 +79,7 @@ A curated list of awesome things related to <a href='https://github.com/better-a
 | Name | Description | Link |
 |------|-------------|------|
 | `better-auth-mcp-server` | Model Context Protocol to help assist in setting up, migrating and maintaing a Better-Auth implementation | [Link](https://github.com/nahmanmate/better-auth-mcp-server) |
+| `AuditZap` | AI-powered website audit tool built with Better Auth (email + Google + GitHub OAuth + 2FA), Next.js 16, Drizzle ORM, and BullMQ | [Link](https://auditzap.io) |
 
 ## Contributing
 
