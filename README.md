@@ -67,6 +67,7 @@ A curated list of awesome things related to <a href='https://github.com/better-a
 | `better-next` | Add `better-auth` using a 🔥 single command 🔥 or use the template itself, built with Next.js, PostgreSQL, Drizzle, shadcn/ui + Registry | [Link](https://github.com/nrjdalal/better-next) |
 | `Hono x Better Auth` | 🚀 Seamlessly integrate powerful authentication with Hono, Better-Auth and Drizzle ORM. 🛡️✨ | [Link](https://github.com/LovelessCodes/hono-better-auth) |
 | `NuxSaaS` | Nuxt.js Full-Stack SaaS Starter Kit - Free & Open Source | [Link](https://nuxsaas.com/) |
+| `EdgeSeed` | Cloudflare-native SaaS starter with Better Auth, React Router v7, Hono, D1/Drizzle, email verification, API tokens, and OAuth 2.1 MCP | [Link](https://github.com/farshidpourlatifi/edgeseed) |
 
 ## UI
 
