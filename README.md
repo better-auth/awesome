@@ -22,6 +22,12 @@ A curated list of awesome things related to <a href='https://github.com/better-a
 | `ronin` | Ronin adapter for BetterAuth | [Link](https://github.com/ronin-co/better-auth) |
 | `instant` | InstantDB adapter for BetterAuth | [Link](https://github.com/daveyplate/better-auth-instantdb) |
 
+## Hosting
+
+| Name | Description | Link |
+|------|-------------|------|
+| `Neon Auth` | Better Auth managed by Neon, with auth tables in your Postgres that branch with the database | [Link](https://neon.com/docs/neon-auth/overview) |
+
 ## Plugins
 
 | Name | Description | Link |
