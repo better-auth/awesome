@@ -34,6 +34,7 @@ A curated list of awesome things related to <a href='https://github.com/better-a
 | `expo-passkey` | A Better Auth plugin enabling secure, passwordless authentication in Expo applications through native biometric authentication | [Link](https://github.com/iosazee/expo-passkey) |
 | `harmony` | A better-auth plugin for email & phone normalization and additional validation, blocking over 55,000 temporary email domains | [Link](https://github.com/GeKorm/better-auth-harmony) |
 | `cloudflare` | Integrate better-auth with Cloudflare Workers, D1, KV, R2, and geolocation services. Includes Next.js and Hono live demos with Drizzle schema migration scripts | [Link](https://github.com/zpg6/better-auth-cloudflare) |
+| `multi-tenant` | Multi-tenancy by subdomain, custom domain or path: resolves the tenant from the request, binds sessions to their tenant and rejects cross-tenant requests. Scopes the organization, admin, SSO and API key plugins | [Link](https://github.com/Weesofficial/better-auth-multi-tenant) |
 
 ## Projects (Open Source, >1k stars)
 
