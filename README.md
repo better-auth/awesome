@@ -34,6 +34,7 @@ A curated list of awesome things related to <a href='https://github.com/better-a
 | `expo-passkey` | A Better Auth plugin enabling secure, passwordless authentication in Expo applications through native biometric authentication | [Link](https://github.com/iosazee/expo-passkey) |
 | `harmony` | A better-auth plugin for email & phone normalization and additional validation, blocking over 55,000 temporary email domains | [Link](https://github.com/GeKorm/better-auth-harmony) |
 | `cloudflare` | Integrate better-auth with Cloudflare Workers, D1, KV, R2, and geolocation services. Includes Next.js and Hono live demos with Drizzle schema migration scripts | [Link](https://github.com/zpg6/better-auth-cloudflare) |
+| `@mockatoo/connect-better-auth` | Drop-in mocks of the Google, GitHub, Microsoft, Apple, Discord, LinkedIn, X and Facebook providers for development, E2E tests, CI and coding agents. App code and the real token exchange stay unchanged, with no app registration or real accounts | [Link](https://github.com/mockatoo/connectors/tree/main/packages/connect-better-auth) |
 
 ## Projects (Open Source, >1k stars)
 
